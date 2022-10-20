@@ -30,3 +30,6 @@ Since this project is divided into independent branches, one for each contributo
 ### Joaquín Américo Astete Frugoni
 I accepted the invitation to participate in the *L2_Scientic_Programming repository*. I created the *joaquinastete* branch. In my branch I created a file with my history. I did a merge from the main branch to the *joaquinastete* branch with the updates of the group history. In the *joaquinastete* branch, I made the changes in the group history with the parts of my history. Once the file *collaborative story* was modified, I did a merge from the branch to the main branch.
 
+### Anxo Lois Pereira Cánovas
+I accepted the invitation to participate in the *L2_Scientic_Programming repository*. I created the *Anxo_branch* branch to edit my files. In my branch I created a file with my history. I did a merge from the main branch to my branch with with the empty group history file. In the *Anxo_branch* branch, I writed updated the group history file with my history and I prepared the file so that the rest of the team could add their part more easily. Once the file *collaborative story* was modified, I comitted and pushed the canges in both files (the group history and the file with my own history) and I did a merge from the branch to the main branch.
+
