@@ -26,3 +26,7 @@ In order to practice with both Git and GitHub tools, the members of the group (m
 ### Judith Martinez Gonzalez
 First of all, I created this repository with a text file called *new story*. Then, I added the members of the group as a collaborators of the repository. After that, I created another text file called *collaborative story*. 
 Since this project is divided into independent branches, one for each contributor, I created a branch called *judithmartinez*. Once it was created, I added another text file called *collaborator1_story* where I wrote some lines with personal experience of the day. Then, I did a merge from the main branch to *judithmartinez* branch. Then, I modified the file *collaborative story* adding the contents of my personal story. Finally, I merged the changes to the main branch. 
+
+### Joaquín Américo Astete Frugoni
+I accepted the invitation to participate in the *L2_Scientic_Programming repository*. I created the *joaquinastete* branch. In my branch I created a file with my history. I did a merge from the main branch to the *joaquinastete* branch with the updates of the group history. In the *joaquinastete* branch, I made the changes in the group history with the parts of my history. Once the file *collaborative story* was modified, I did a merge from the branch to the main branch.
+
